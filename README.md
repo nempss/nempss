@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nempss
 - 👀 I’m interested in Learning to code
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on don't know yet
+- 🌱 I’m currently learning Pyhton
+- 💞️ I’m looking to collaborate on some game?
 - 📫 How to reach me @N.linnamae@gmail.com
 
 
